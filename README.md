@@ -5,4 +5,4 @@ I'd really like to make use of RDKit in R. It's likely the most feature rich ope
 
 I genuinely believe that the thing holding back greater use of R in chemoinformatics is the access to familiar libraries. With a little Rcpp, we should be able to right this.
 
-I envisage this package being a link to the RDkit code via some Rcppmodules - easy to install across platform, but relatively low level. Then more focused packages can be builts from it (e.g. a kinase-inhibitor specific modelling package).
+I envisage this package being a link to the RDkit code via some [Rcppmodules](https://github.com/r-pkg-examples/rcpp-modules-student) - easy to install across platform, but relatively low level. Then more focused packages can be builts from it (e.g. a kinase-inhibitor specific modelling package).
